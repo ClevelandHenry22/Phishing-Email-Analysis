@@ -20,7 +20,7 @@ By understanding the tactics used by attackers and adopting simple yet effective
 
 ##  Overview
 
-This repository contains a professional **Phishing Detection & Awareness Report** produced as part of the Future Interns Cybersecurity Internship Programme (Task 2). Unlike reports using synthetic examples, **this analysis is based on 7 real email screenshots** collected from live inboxes — making the findings directly applicable to real-world threat scenarios.
+This repository contains a professional **Phishing Detection & Awareness Report**. Unlike reports using synthetic examples, **this analysis is based on 7 real email screenshots** collected from live inboxes — making the findings directly applicable to real-world threat scenarios.
 
 ---
 
